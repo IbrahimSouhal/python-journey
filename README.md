@@ -12,6 +12,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson2.py — Functions and Conditions
 - lesson3.py — Dictionaries and Input
 - lesson4.py — Independent Practice
+- lesson5.py — Lists and Methods (append)
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
