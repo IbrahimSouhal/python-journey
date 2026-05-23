@@ -13,6 +13,7 @@ while True:
     print("\n1. Add a robot")
     print("2. Show team ")
     print("3. Quit")
+    print("4. Deactivate a robot")
 
     choice = input("Choose: ")
 
@@ -27,3 +28,9 @@ while True:
 
     elif choice == "3":
         break
+    elif choice == "4":
+        name = input("Enter the name of the robot to deactivate: ")
+        for robot in team:
+            if robot.name == name:
+                robot.active = False
+                print(f"{name} has been deactivated!")
