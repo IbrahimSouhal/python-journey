@@ -18,5 +18,6 @@ A personal learning repository documenting my Python journey from beginner to ad
 - project1.py — Number Guessing Game (first real project!)
 - lesson8.py — Loops (for and while)
 - project2.py — Improved Guessing Game with while loop
+- project3.py — Full Calculator with functions and loops
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
