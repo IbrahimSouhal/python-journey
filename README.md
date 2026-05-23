@@ -16,6 +16,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson6.py — Concatenating Strings and f-strings
 - lesson7.py — Libraries and random module
 - project1.py — Number Guessing Game (first real project!)
-
+- lesson8.py — Loops (for and while)
+- project2.py — Improved Guessing Game with while loop
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
