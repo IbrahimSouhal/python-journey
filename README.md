@@ -13,6 +13,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson3.py — Dictionaries and Input
 - lesson4.py — Independent Practice
 - lesson5.py — Lists and Methods (append)
+- lesson6.py — Concatenating Strings and f-strings
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
