@@ -19,5 +19,8 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson8.py — Loops (for and while)
 - project2.py — Improved Guessing Game with while loop
 - project3.py — Full Calculator with functions and loops
+- project4.py — Rock Paper Scissors Game
+- lesson9.py — OOP: Classes and Objects
+- project5.py — Robot Team Manager using OOP
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
