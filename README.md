@@ -22,5 +22,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - project4.py — Rock Paper Scissors Game
 - lesson9.py — OOP: Classes and Objects
 - project5.py — Robot Team Manager using OOP
+- lesson10.py — OOP: Inheritance
+
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
