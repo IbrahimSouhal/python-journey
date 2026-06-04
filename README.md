@@ -1,4 +1,4 @@
-# Python Journey 🐍
+# Python Journey 
 
 A personal learning repository documenting my Python journey from beginner to advanced.
 
