@@ -23,6 +23,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson9.py — OOP: Classes and Objects
 - project5.py — Robot Team Manager using OOP
 - lesson10.py — OOP: Inheritance
+- lesson11.py — Error Handling (try/except)
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
