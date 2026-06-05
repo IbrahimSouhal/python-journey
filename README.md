@@ -26,6 +26,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson11.py — Error Handling (try/except)
 - project6.py — RPG Battle Game (OOP + Inheritance + Loops)
 - lesson12.py — File Handling (read/write)
+- project7.py — Robot Team Manager with persistent storage
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
