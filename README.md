@@ -27,6 +27,8 @@ A personal learning repository documenting my Python journey from beginner to ad
 - project6.py — RPG Battle Game (OOP + Inheritance + Loops)
 - lesson12.py — File Handling (read/write)
 - project7.py — Robot Team Manager with persistent storage
+- lesson13.py — Functions: Data Flow Between Multiple Functions
+- project8.py — Robot Command System (Multiple Functions and Data Flow)
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
