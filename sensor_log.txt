@@ -1,0 +1,5 @@
+=== Reading ===
+Temperature: 90.0 | Overheating! Cooling system activated.
+Battery: 12.0 | Low battery! Returning to base.
+Obstacle Distance: 15.0 | Object nearby!Slowing down.
+-----------------
