@@ -31,6 +31,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - project8.py — Robot Command System (Multiple Functions and Data Flow)
 - project9.py — Robot Sensor Simulator (Functions + File Logging)
 - lesson14.ipynb — NumPy: Arrays, Math Operations, Boolean Indexing
+- lesson15.ipynb — Matplotlib: Line Charts, Multiple Plots, Legend
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
