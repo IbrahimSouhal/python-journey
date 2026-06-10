@@ -33,6 +33,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson14.ipynb — NumPy: Arrays, Math Operations, Boolean Indexing
 - lesson15.ipynb — Matplotlib: Line Charts, Multiple Plots, Legend
 - lesson16.ipynb — Matplotlib: Bar Chart & Scatter Plot
+- lesson17.py — Algorithms: Bubble Sort
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
