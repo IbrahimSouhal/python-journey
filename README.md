@@ -36,6 +36,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson17.py — Algorithms: Bubble Sort
 - project10.ipynb — Robot Data Analyzer (NumPy + Matplotlib + Bubble Sort)
 - lesson18.py — Advanced Dictionaries: Nested, Loop, Update
+- lesson19.py — List Comprehension: Filtering and Transforming Data
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
