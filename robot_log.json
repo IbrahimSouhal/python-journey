@@ -1,0 +1,24 @@
+{
+    "readings": [
+        {
+            "temperature": 90.0,
+            "battery": 12.0,
+            "distance": 9.0,
+            "status": "Critical"
+        },
+        {
+            "temperature": 54.0,
+            "battery": 34.0,
+            "distance": 19.0,
+            "status": "Object nearby! Slowing down."
+        },
+        [
+            {
+                "temperature": 9.0,
+                "battery": 18.0,
+                "distance": 60.0,
+                "status": "Path is clear. Moving forward."
+            }
+        ]
+    ]
+}
