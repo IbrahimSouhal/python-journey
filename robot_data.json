@@ -1,0 +1,8 @@
+{
+    "name": "UnitreeG1",
+    "battery": 85,
+    "sensors": {
+        "temperature": 72,
+        "distance": 23
+    }
+}
