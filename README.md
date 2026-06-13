@@ -41,6 +41,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson21.py — Modules: Custom Module, Import, Attributes
 - robot_utils.py — Helper module for robot utilities
 - lesson22.py — Regular Expressions: Search, FindAll, Match
+- lesson23.py — JSON: dumps, dump, load
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
