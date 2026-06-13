@@ -38,6 +38,8 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson18.py — Advanced Dictionaries: Nested, Loop, Update
 - lesson19.py — List Comprehension: Filtering and Transforming Data
 - lesson20.py — Lambda Functions: Sorting and Conditions
+- lesson21.py — Modules: Custom Module, Import, Attributes
+- robot_utils.py — Helper module for robot utilities
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
