@@ -43,6 +43,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson22.py — Regular Expressions: Search, FindAll, Match
 - lesson23.py — JSON: dumps, dump, load
 - project11.py — Robot Data Logger (JSON + while loop + append)
+- lesson24.py — OOP Advanced: Inheritance, Polymorphism, super()
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
