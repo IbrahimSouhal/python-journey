@@ -44,6 +44,8 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson23.py — JSON: dumps, dump, load
 - project11.py — Robot Data Logger (JSON + while loop + append)
 - lesson24.py — OOP Advanced: Inheritance, Polymorphism, super()
+- project12.py — Robot Fleet Manager (OOP, Inheritance, JSON Save/Load)
+- fleet.json — Saved robot fleet data
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
