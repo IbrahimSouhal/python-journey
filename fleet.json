@@ -1,0 +1,14 @@
+[
+    {
+        "type": "worker",
+        "name": "Atlas",
+        "battery": "85",
+        "task": "welding"
+    },
+    {
+        "type": "guard",
+        "name": "Unitree G1",
+        "battery": "90",
+        "area": "warehouse"
+    }
+]
