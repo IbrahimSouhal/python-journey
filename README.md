@@ -46,6 +46,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - lesson24.py — OOP Advanced: Inheritance, Polymorphism, super()
 - project12.py — Robot Fleet Manager (OOP, Inheritance, JSON Save/Load)
 - fleet.json — Saved robot fleet data
+- lesson25.py — Error Handling: ZeroDivisionError, TypeError, Custom Exception, finally, raise
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
