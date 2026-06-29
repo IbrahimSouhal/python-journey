@@ -47,6 +47,7 @@ A personal learning repository documenting my Python journey from beginner to ad
 - project12.py — Robot Fleet Manager (OOP, Inheritance, JSON Save/Load)
 - fleet.json — Saved robot fleet data
 - lesson25.py — Error Handling: ZeroDivisionError, TypeError, Custom Exception, finally, raise
+- lesson26.py — Generators: yield, sensor_readings, battery_simulator
 
 ## Goals
 Learning Python as a foundation for Robotics Engineering and C++.
