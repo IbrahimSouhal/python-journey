@@ -1,0 +1,8 @@
+[
+    {
+        "type": "patrol",
+        "name": "Patrol",
+        "area": "Warehouse",
+        "duration": "30"
+    }
+]
